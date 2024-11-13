@@ -1,0 +1,36 @@
+/* 
+  Capture.strings
+  AnyImageKit
+
+  Created by 大桥 on 2024/11/13.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"OK" = "OK";
+"BACK" = "戻る";
+"DONE" = "完了";
+"EDIT" = "編集";
+"ALERT" = "通知";
+"CANCEL" = "キャンセル";
+"PREVIEW" = "プレビュー";
+"PHOTOS" = "写真";
+"CAMERA" = "カメラ";
+"MICROPHONE" = "マイク";
+"SETTINGS" = "設定";
+
+"PHOTO" = "写真";
+"VIDEO" = "動画";
+"LIVE_PHOTO" = "LIVE";
+"LOADING" = "読み込み中";
+
+"UNDO" = "元に戻す";
+"PLAY" = "再生";
+"PAUSE" = "一時停止";
+"RESET" = "リセット";
+"DOWNLOADING" = "ダウンロード中";
+
+"GO_TO_SETTINGS" = "設定へ移動";
+"PERMISSION_IS_DISABLED" = "%@へのアクセスが無効です";
+"NO_PHOTOS_PERMISSION_TIPS" = "「設定 > プライバシー > 写真」で%@のアクセスを許可してください";
+"NO_CAMERA_PERMISSION_TIPS" = "「設定 > プライバシー > カメラ」で%@のアクセスを許可してください";
+"NO_MICROPHONE_PERMISSION_TIPS" = "「設定 > プライバシー > マイク」で%@のアクセスを許可してください";

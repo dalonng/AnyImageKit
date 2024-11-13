@@ -1,0 +1,24 @@
+/* 
+  Capture.strings
+  AnyImageKit
+
+  Created by 大桥 on 2024/11/13.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"ORIGINAL_IMAGE" = "元の画像";
+"SELECT_PHOTO" = "写真を選択";
+"UNSELECT_PHOTO" = "写真の選択を解除";
+"TAKE_PHOTO" = "写真を撮影";
+"SELECT_A_MAXIMUM_OF_PHOTOS" = "写真は最大%zd枚まで選択できます";
+"SELECT_A_MAXIMUM_OF_VIDEOS" = "動画は最大%zd本まで選択できます";
+"SELECT_A_MAXIMUM_OF_PHOTOS_OR_VIDEOS" = "写真または動画は最大%zd個まで選択できます";
+"DOWNLOADING_FROM_ICLOUD" = "iCloudからダウンロード中";
+"FETCH_FAILED_PLEASE_RETRY" = "読み込みに失敗しました。再試行してください";
+"A11Y_SWITCH_ALBUM_TIPS" = "アルバムを切り替え、現在のアルバムは%@です";
+"LIMITED_PHOTOS_PERMISSION_TIPS" = "すべての写真を取得できません\nタップしてさらに写真を選択";
+"CANNOT_PREVIEW_ASSET_IN_OTHER_ALBUM" = "現在のアルバムでこのアイテムをプレビューできません";
+
+// Asset Disable Check Rule
+"DURATION_OF_SELECTED_VIDEO_RANGE" = "選択できる動画の長さは%d-%d秒の間である必要があります";
+"CANNOT_SELECT_PHOTOS_AND_VIDEOS_AT_SAME_TIME" = "写真と動画を同時に選択することはできません";

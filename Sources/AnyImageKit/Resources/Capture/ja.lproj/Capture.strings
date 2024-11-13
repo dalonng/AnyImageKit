@@ -1,0 +1,13 @@
+/* 
+  Capture.strings
+  AnyImageKit
+
+  Created by 大桥 on 2024/11/13.
+  Copyright © 2019-2022 AnyImageKit.org. All rights reserved.
+*/
+
+"SWITCH_TO_FRONT_CAMERA" = "フロントカメラに切り替え";
+"SWITCH_TO_BACK_CAMERA" = "バックカメラに切り替え";
+"TAP_FOR_PHOTO" = "タップして写真を撮影";
+"HOLD_FOR_VIDEO" = "長押しで動画を撮影";
+"HOLD_FOR_VIDEO_TAP_FOR_PHOTO" = "長押しで動画、タップで写真を撮影";
